@@ -1,7 +1,7 @@
 # Puddle_project
 This is a simple online marketplace where people can buy and sell items.
 
-Bellow are some hints on how you recreate the project:
+Below are some hints on how you can recreate the project:
 
 Step 1: Opening PowerShell
 
